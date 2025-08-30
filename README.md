@@ -1,4 +1,10 @@
+
+
+
 # Easy Shop Lite (React + TypeScript)
+
+[![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=vercel)](https://easy-shop-lite.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/iliec9145/easy-shop-lite)
 
 A portfolio-ready demo built to showcase **Frontend Engineer** skills:
 - React 18 + TypeScript + Vite
