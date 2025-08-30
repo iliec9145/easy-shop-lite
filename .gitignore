@@ -1,0 +1,8 @@
+node_modules
+dist
+.storybook-out
+storybook-static
+coverage
+.vite
+.DS_Store
+.env*
