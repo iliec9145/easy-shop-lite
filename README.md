@@ -1,6 +1,4 @@
 
-
-
 # Easy Shop Lite (React + TypeScript)
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=vercel)](https://easy-shop-lite.vercel.app)
