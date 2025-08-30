@@ -5,6 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=vercel)](https://easy-shop-lite.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/iliec9145/easy-shop-lite)
+[![UX/UI Portfolio](https://img.shields.io/badge/figma-portfolio-orange?style=for-the-badge&logo=figma)](https://bit.ly/3ZyyUFE)
 
 This demo implements the **core e-commerce UI**: search bar, cart functionality, routing, state management (Zustand), and form handling.  
 Products are fetched from the public **Fake Store API**, which provides demo data (images, descriptions, prices).  
