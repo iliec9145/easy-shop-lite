@@ -6,6 +6,12 @@
 [![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=vercel)](https://easy-shop-lite.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/iliec9145/easy-shop-lite)
 
+This demo implements the **core e-commerce UI**: search bar, cart functionality, routing, state management (Zustand), and form handling.  
+Products are fetched from the public **Fake Store API**, which provides demo data (images, descriptions, prices).  
+
+This way, the project demonstrates both **UI implementation** and **API integration** in a real-world scenario.
+
+
 A portfolio-ready demo built to showcase **Frontend Engineer** skills:
 - React 18 + TypeScript + Vite
 - Routing (react-router), State (Zustand), Forms (react-hook-form)
